@@ -5,11 +5,11 @@ Paginate whatever you want, client and server side
 
 If you are using nodejs/npm:
 
-    npm install paginate-js
+    npm install https://github.com/slawkacz/paginate-js/tarball/master
 
 If you are using any other js environment:
 
-    git clone git://github.com/masylum/paginate-js.git
+    git clone git@github.com:slawkacz/paginate-js.git
 
 ## Usage
 
